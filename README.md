@@ -1,2 +1,3 @@
 # odin_recipes
-Odin Project Recipes Project
+Odin Recipes Project
+Thank You Odin Project for these excersise. I have enjoyed it so far and plan on continuing. 
